@@ -1,3 +1,1 @@
-FROM ubuntu
-
-RUN echo Hola
+FROM node:ubuntu

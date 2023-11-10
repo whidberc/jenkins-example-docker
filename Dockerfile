@@ -1,1 +1,1 @@
-FROM node:ubuntu
+FROM node:16-alpine
